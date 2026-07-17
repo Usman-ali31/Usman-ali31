@@ -1,5 +1,9 @@
 # Hi there, I'm Usman Ali 👋 🎓
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=180&section=header&text=Software%20Engineer&fontSize=40&animation=twinkling" alt="Developer Banner" />
+</p>
+
 I am a passionate **Software Engineering Student** dedicated to building efficient, high-quality digital solutions. Currently expanding my expertise in backend systems, core algorithmic problems, and mobile app engineering.
 
 ---
@@ -22,9 +26,9 @@ I am a passionate **Software Engineering Student** dedicated to building efficie
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Profile Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Usman-ali31&show_icons=true&theme=dark" alt="Usman's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usman-ali31&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
