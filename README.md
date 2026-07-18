@@ -86,14 +86,15 @@ usman.say_hi()
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🐍 Student Record Management System
-A menu-driven Python CLI app for managing student records — file handling, custom sorting, clean structured logic.
-
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Usman-ali31&repo=Student-Record-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/Student-Record-Management-System)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Usman-ali31&repo=Edu_Quiz_Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/Edu_Quiz_Web)
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Usman-ali31&repo=google_clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/google_clone)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Usman-ali31&repo=uni_projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/uni_projects)
 
 </div>
 
