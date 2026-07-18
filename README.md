@@ -64,8 +64,8 @@ usman.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Usman-ali31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-ali31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+  <img height="165" src="https://github-readme-stats-one-rho-23.vercel.app/api?username=Usman-ali31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+  <img height="165" src="https://github-readme-stats-one-rho-23.vercel.app/api/top-langs/?username=Usman-ali31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 </div>
 
 <div align="center">
@@ -81,7 +81,7 @@ usman.say_hi()
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Usman-ali31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy-six-teal.vercel.app/?username=Usman-ali31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -90,11 +90,11 @@ usman.say_hi()
 
 <div align="center">
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Usman-ali31&repo=Student-Record-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/Student-Record-Management-System)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Usman-ali31&repo=Edu_Quiz_Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/Edu_Quiz_Web)
+[![Repo](https://github-readme-stats-one-rho-23.vercel.app/api/pin/?username=Usman-ali31&repo=Student-Record-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/Student-Record-Management-System)
+[![Repo](https://github-readme-stats-one-rho-23.vercel.app/api/pin/?username=Usman-ali31&repo=Edu_Quiz_Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/Edu_Quiz_Web)
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Usman-ali31&repo=google_clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/google_clone)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Usman-ali31&repo=uni_projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/uni_projects)
+[![Repo](https://github-readme-stats-one-rho-23.vercel.app/api/pin/?username=Usman-ali31&repo=google_clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/google_clone)
+[![Repo](https://github-readme-stats-one-rho-23.vercel.app/api/pin/?username=Usman-ali31&repo=uni_projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)](https://github.com/Usman-ali31/uni_projects)
 
 </div>
 
