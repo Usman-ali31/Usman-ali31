@@ -5,10 +5,10 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+efficient+backend+systems;Exploring+AI+%26+Data+Science;Android+Development+Enthusiast;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Building+efficient+backend+systems;Exploring+AI+%26+Data+Science;Android+Development+Enthusiast;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Social badges -->
 <a href="https://www.linkedin.com/in/usman-ali-b37359212">
