@@ -1,0 +1,32 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # har 12 ghante baad auto-update
+  push:
+    branches:
+      - main                # apni default branch ka naam yahan check kar lein (main ya master)
+  workflow_dispatch:        # manually bhi run kar sakte hain "Run workflow" button se
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Usman-ali31
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push output to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
