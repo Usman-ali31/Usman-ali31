@@ -81,7 +81,7 @@ usman.say_hi()
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-six-teal.vercel.app/?username=Usman-ali31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Usman-ali31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
