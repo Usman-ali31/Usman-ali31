@@ -69,8 +69,8 @@ usman.say_hi()
   GitHub itself - no third-party Vercel server involved, so they can never show "vercel" errors.
 -->
 <div align="center">
-  <img height="165" src="https://raw.githubusercontent.com/Usman-ali31/Usman-ali31/main/generated/overview.svg#gh-dark-mode-only"/>
-  <img height="165" src="https://raw.githubusercontent.com/Usman-ali31/Usman-ali31/main/generated/languages.svg#gh-dark-mode-only"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Usman-ali31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-ali31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 </div>
 
 <div align="center">
