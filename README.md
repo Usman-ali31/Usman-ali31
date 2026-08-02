@@ -87,7 +87,7 @@ usman.say_hi()
 |---|---|---|
 | [Student-Record-Management-System](https://github.com/Usman-ali31/Student-Record-Management-System) | Menu-driven Python CLI app for managing student records | Python |
 | [Edu_Quiz_Web](https://github.com/Usman-ali31/Edu_Quiz_Web) | Interactive quiz & code learning web platform | HTML, CSS, JS |
-| [google_clone](https://github.com/Usman-ali31/google_clone) | Front-end clone of Google Search | HTML, CSS |
+| [payroll-attendance-system](https://github.com/Usman-ali31/payroll-attendance-system.git) | SRS & UML-based system design for a library domain application | PYTHON, SQLITE |
 | [library-management-system](https://github.com/Usman-ali31/library-management-system.git) | CLI-based Library Management System with login, issue/return, and fine calculation | Python |
 
 </div>
